@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:50.355546
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:41
 #+TITLE: 聖觀自在菩薩功德讚
 #+PROPERTY: CBETA_ID T20n1053
 #+PROPERTY: ID KR6j0252
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1053
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0252_T_000-0068a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0252_T_001-0068a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1053¶
-
- 聖觀自在菩薩功德讚¶
+No. 1053¶
+聖觀自在菩薩功德讚¶
 ¶
 西方賢聖集¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
@@ -207,7 +206,7 @@ No.1053¶
 　聖觀自在功德海，
 　無量無邊無有窮，¶
 　假以百舌千劫中，
-　稱揚讚歎不能盡。
+　稱揚讚歎不能盡。」
 #+END_VERSE
-」¶
+¶
 聖觀自在菩薩功德讚
